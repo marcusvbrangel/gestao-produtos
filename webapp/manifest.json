@@ -96,7 +96,7 @@
       }
     },
     "rootView": {
-      "viewName": "com.mvbr.gestao.gestaoprodutos.view.App",
+      "viewName": "com.mvbr.gestao.gestaoprodutos.view.View1",
       "type": "XML",
       "async": true,
       "id": "App"

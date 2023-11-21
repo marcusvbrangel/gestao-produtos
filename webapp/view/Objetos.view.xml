@@ -1,9 +1,10 @@
-<mvc:View controllerName="com.mvbr.gestao.gestaoprodutos.controller.View1"
+
+<mvc:View controllerName="com.mvbr.gestao.gestaoprodutos.controller.Objetos"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-       
-       <content>
+
+        <content>
 
             <Panel id="panelPrincipal" expandable="true" headerText="Panel with a header text" width="auto" class="sapUiResponsiveMargin">
 		<content>
@@ -12,6 +13,8 @@
 	</Panel>
 
         </content>
-        
+
+
     </Page>
 </mvc:View>
+
